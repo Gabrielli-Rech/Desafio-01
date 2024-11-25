@@ -1,0 +1,4 @@
+O Desafio de hoje é escrever um código de HTML puro de um protótipo de site do SENAC. Os "layouts" de referência estão disponibilizados na pasta "Recursos". As imagens que devem ser usadas estão na pasta "img". A pasta "pages" está vazia, é nela que você deve criar os arquivos html das páginas auxiliares. A página principal, chamada index, não deve estar nessas pastas, deve estar  na pasta raiz do projeto.
+
+Ao meio dia, você deve me entregar o resultado final, independente de ter finalizado ou não. 
+Na pasta Temp, na minha Pasta, na pasta com a data de hoje, crie uma pasta com o seu nome e copie nela toda a pasta pages e o arquivo index. 
